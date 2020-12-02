@@ -1,0 +1,23 @@
+html, body {
+    background-color: #232c37 !important;
+    color: #7f9ab4 !important;
+}
+
+.sidebar {
+    border-right: 3px solid #343648 !important;
+    padding-left: 30px !important;
+}
+
+#dpd * {
+    background-color: #2a313d !important;
+    color: #7f9ab4 !important;
+    font-size: 10px !important;
+}
+
+.Select-contrl {
+    border: 1px solid #323844 !important;
+}
+
+.Select-menu-outer {
+    border-color: #36425e !important;
+}
